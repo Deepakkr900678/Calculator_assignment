@@ -1,0 +1,25 @@
+.container{
+    padding: 10px;
+    border-radius: 1em;
+    height: 380px;
+    width: 380px;
+    margin: auto;
+    background-color: rgb(199, 197, 197);
+}
+.display-box{
+    background-color: white;
+    width: 97%;
+    height: 65%;
+}
+#btn{
+    background-color: blue;
+}
+input[type=button]{
+    background-color: blue;
+    color: white;
+    width: 97%;
+    height: 80%;
+}
+.header{
+    text-align: center;
+}
